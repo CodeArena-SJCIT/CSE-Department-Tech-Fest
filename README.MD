@@ -8,6 +8,8 @@ Welcome to the official repository for the CSE Department Tech Fest! This reposi
 
 Our tech fest brings together innovation, creativity, and technical expertise to celebrate the power of technology. From hackathons to coding challenges, workshops to project exhibitions, we aim to provide a platform for students to showcase their skills and learn something new.
 
+To be held in the month of Feburary 2025.
+
 ---
 
 ## 📂 What’s Inside?
@@ -23,7 +25,7 @@ Our tech fest brings together innovation, creativity, and technical expertise to
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript, React
+- **Frontend**: HTML, CSS, JavaScript, React, (Anything)
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB/Firebase
 - **Other Tools**: GitHub Actions, APIs for event management
