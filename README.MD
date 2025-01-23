@@ -40,7 +40,7 @@ Our tech fest brings together innovation, creativity, and technical expertise to
 
 ## 📬 Contact Us
 
-For queries or collaborations, reach out to the organizing team at [techfest@cse.xyz](mailto:techfest@cse.xyz).
+For queries or contributions, reach out to [adityasaroha.cse@sjcit.ac.in](mailto:adityasaroha.cse@sjcit.ac.in).
 
 ---
 
