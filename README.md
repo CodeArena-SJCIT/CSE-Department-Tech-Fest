@@ -1,5 +1,5 @@
 # Updates
-We have connected the domain `technotsav.tech` for out department fest!!!
+We have connected the domain `technotsav.tech` for our department fest!!!
 
 ---
 
