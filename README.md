@@ -1,3 +1,8 @@
+# Updates
+We have connected the domain the technotsav.tech for out department fest!!!
+
+---
+
 # CSE Department Tech Fest 
 
 Welcome to the official repository for the CSE Department Tech Fest! This repository is the hub for all resources, code, and documentation related to our department's flagship technical event. 
