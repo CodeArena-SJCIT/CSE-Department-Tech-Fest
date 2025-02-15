@@ -3,18 +3,12 @@ body {
   width: 100%;
   margin: 0;
   padding: 0;
-  background-color: #FBAB7E;
-  background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+  background-color: #101010;
+  background-image: linear-gradient(62deg, #010101 0%, #050505 100%);
   position: absolute;
   overflow-X: hidden;
   overflow-y: scroll;
 }
-
-::-webkit-scrollbar {
-  display: ;
-  /* Hides the scrollbar */
-}
-
 
 @font-face {
   font-family: 'custard';
@@ -32,7 +26,7 @@ body {
 
 .pw {
   font-family: "neulis" !important;
-  color: #B62D5D;
+  color: #111111;
   font-weight: 500;
   font-size: 1.25rem;
   line-height: 1.75rem;
