@@ -314,14 +314,13 @@ const ModelViewer = () => {
           onError={handleError}
         >
           <ambientLight intensity={0.7} />
-          <spotLight position={[10, 10, 10]} angle={0.15} penumbra={1} intensity={1} />
-          <pointLight position={[-10, -10, -10]} intensity={0.5} />
+          <hemisphereLight skyColor="white" groundColor="gray" intensity={1} />
 
           {!showModel ? (
             <LoadingBox progress={progress} />
           ) : (
             <Suspense fallback={null}>
-              <Model url={"/models/isometric_bedroom.glb"} />
+              <Model url={"%PUBLIC_URL%/media/model.glb"} />
             </Suspense>
           )}
 
