@@ -11,7 +11,7 @@ const Countdown = () => {
     const intervalRef = useRef(null);
 
     const calculateRemainingTime = () => {
-        const targetDate = new Date("Feburary 20, 2025 21:58:00 GMT+05:30");
+        const targetDate = new Date("March 10, 2025 21:58:00 GMT+05:30");
         const now = new Date();
         const distance = targetDate - now;
 
