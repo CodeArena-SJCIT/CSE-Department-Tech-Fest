@@ -5,7 +5,7 @@
        </td>
       <td align="center">
         <a href="https://github.com/Sariputra18">
-          <img src="https://instagram.fblr20-3.fna.fbcdn.net/v/t51.2885-19/476181804_2453233985022384_7115343657435791158_n.jpg?_nc_ht=instagram.fblr20-3.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2AF1jzi56LXjg_ZIqQkDxzq5nn_0C0YXUe3v3pT-SzUfn6ebBlPGz9HX_0WXybsHvrKhXTk7q1nvu5NrAwbSOIsC&_nc_ohc=R5r1barkiLsQ7kNvgHbLCBp&_nc_gid=dd796ac03d0b415db79c7e904254af24&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AYDEwAawMBS_3FEkh2Wll2JoXtDQhclGxaNRFv91RDfcfg&oe=67C2AC02&_nc_sid=7a9f4b" width="100px;" alt="Contributor 1"/><br />
+          <img src="https://media.licdn.com/dms/image/v2/D5603AQFDl1NbGcBfHA/profile-displayphoto-shrink_200_200/B56ZQDsNiAHIAY-/0/1735228710573?e=1747267200&v=beta&t=xkcz4aPZ8ovUK02nmfsZxNv9wqUK5fVaxXYBUycImiM" width="100px;" alt="Contributor 1"/><br />
           <b>Sariputra18</b>
         </a><br />
         <sub>Contributor</sub>
