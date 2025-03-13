@@ -51,7 +51,7 @@ const Countdown = () => {
                     </div>
                 </div >
             ) : (
-                <p className="text-lg font-bold text-red-500">BGS ARPIT is in Space!!! <span style={{ color: "rgba(255, 0, 0, 0.5)" }}>(Amateur Radio Payload for Information Transmission)</span></p>
+                <p className="text-lg font-bold text-red-500">The Fest is Live!</p>
             )}
 
         </>
