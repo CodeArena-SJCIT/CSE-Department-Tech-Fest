@@ -11,7 +11,7 @@ const Countdown = () => {
     const intervalRef = useRef(null);
 
     const calculateRemainingTime = () => {
-        const targetDate = new Date("March 10, 2025 21:58:00 GMT+05:30");
+        const targetDate = new Date("March 28, 2025 21:58:00 GMT+05:30");
         const now = new Date();
         const distance = targetDate - now;
 
@@ -33,7 +33,7 @@ const Countdown = () => {
 
     return (
         <>
-            <p className="p-head">Registration Closes in</p>
+            <p className="p-head">Flashmob on</p>
             {/* Countdown Timer */}
             {!timerEnded ? (
                 <div className="ls">
@@ -51,7 +51,7 @@ const Countdown = () => {
                     </div>
                 </div >
             ) : (
-                <p className="text-lg font-bold text-red-500">The Fest is Live!</p>
+                <p className="text-lg font-bold text-red-500">The Flashmob is Live!</p>
             )}
 
         </>
