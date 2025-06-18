@@ -16,7 +16,7 @@ function App() {
               <div className='logo'>Technotsav Logo</div>
               {<p className='pw' style={{ position: "absolute", bottom: 0, left: 0, marginLeft: "20px" }}>Made with <span style={{ fontSize: "1rem" }}>❤️</span> by Technotsav Web Team</p >}
               <Apply />
-              <Links facebook={"https://www.github.com/Aditya-138-12"} github={"https://github.com/CodeArena-SJCIT/CSE-Department-Tech-Fest"} />
+              <Links facebook={""} github={""} />
             </>
           } />
           <Route path="/about" element={
@@ -25,7 +25,7 @@ function App() {
               {<p className='pw' style={{ position: "absolute", bottom: 0, left: 0, marginLeft: "20px" }}>Made with <span style={{ fontSize: "1rem" }}>❤️</span> by Technotsav Web Team</p >}
               <Apply />
               <About />
-              <Links facebook={"https://www.github.com/Aditya-138-12"} github={"https://github.com/CodeArena-SJCIT/CSE-Department-Tech-Fest"} />
+              <Links facebook={""} github={""} />
 
             </>
           } />
